@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Angitha</h1>
-<h3 align="center">Passionate MSc Data Science student from India with a focus on Cloud Computing and Computer Vision, translating cutting-edge technology into practical solutions.</h3>
+<h3 align="center">Passionate MSc Data Science student from India with a focus on Cloud Computing, NLP, and Text-Mining, translating cutting-edge technology into practical solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angitha10&label=Profile%20views&color=0e75b6&style=flat" alt="angitha10" /> </p>
 
-- 🔭 I’m currently working on my research project on **Human Activity recognition using SVM**
+- 🔭 I’m currently working on my research project on **Document Ask: A web based application for question-answering from a pdf**
 
 - 🌱 I’m currently learning **Hadoop, Apache Spark, and Deep Learning.**
 
